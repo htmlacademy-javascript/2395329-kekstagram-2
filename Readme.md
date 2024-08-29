@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Арина Соколова](https://up.htmlacademy.ru/javascript-individual/2/user/2395329).
-* Наставник: Анна Лисененкова.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena)
 
 ---
 
