@@ -12,5 +12,5 @@ let result= '';
 return
 }
 
-console.log('Да, палиндром');
-console.log('Нет, не палиндром');
+console.log('дОвОд = ' + 'Да, палиндром' );
+console.log('шишка = ' + 'Нет, не палиндром');
