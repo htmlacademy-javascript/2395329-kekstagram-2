@@ -1,19 +1,16 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-console */
-const numbersLine = 20;
-// eslint-disable-next-line no-unused-vars, no-shadow
-const lineLength = function (line, numbersLine) {
-  if (line <= 20) {
-    // eslint-disable-next-line no-shadow
-    const result = line.length;
-    console.log (result,'true');
-  }
-  const result = line.length;
-  // eslint-disable-next-line no-console
-  console.log (result,'false');
-};
+function checkStringLength (string, number) {
+return string.length <= number ;
+}
 
-// eslint-disable-next-line no-unused-vars
-const palindrom = function (wordPalindrom);
-// eslint-disable-next-line no-undef
-console.log(toLowerCase(palindrom));
+console.log("октябрь 20 = " + checkStringLength('октябрь', 20));
+console.log("октябрь 2 = " + checkStringLength('октябрь', 2));
+
+function isPalindrome (string) {
+string = string.replaceAll(' ', '');
+string = string.toUpperCase();
+let result= '';
+return
+}
+
+console.log('дОвОд = ' + 'Да, палиндром' );
+console.log('шишка = ' + 'Нет, не палиндром');
